@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dynamicData>
+
+    <service imageURL="images/realtimetracking.jpg" header="Real Time Tracking">We provide you real time tracking service for your order. You can find the current status and the current location of your order at any time.
+    </service>
+    <service imageURL="images/loadingunloading.jpg" header="Packing, Loading and Unloading Services">We provide you complimentary Loading and Unloading services and various Packing services to avoid damage of your goods.
+    </service>
+    <service imageURL="images/cartforrent.jpg" header="Rent your Carrier">We can provide you carriers on rent for long term shifting services. To know more please call 1800-0000 000.   
+    </service>
+    <service imageURL="images/smugglingfree.jpg" header="Smuggling Free Assurance Seal">We provide you a Smuggling free Assurance seal to avoid smuggling at all levels. We also provide you Insurance services on request.
+    </service>
+    <service imageURL="images/securekeyverification.jpg" header="Secure Shifting Services">We provide you best secured shifting services. We maintain a security key at the time of loading and unloading your goods.
+    </service>
+    <service imageURL="images/sharedanddedicated.jpg" header="Shared and Dedicated Services">You can select the way you want your goods to get shifted. We provide you dedicated carriers as well as shared carries services.
+    </service>
+    <service imageURL="images/luggagepickup.jpg" header="Luggage Pickup and Delivery Services">We can pickup and deliver your luggage securely without your physical presence. To know more please call on 1800-0000 000.
+    </service>
+    <service imageURL="images/customizedservice.jpg" header="Customized Services">We provide you Daily, Weekly and Monthly Shifting services. We provide Customized Services depending on your requirement.
+    </service>
+    
+    <flow imageURL="images/bookservice.jpg">1. Call Us / Book Through Website
+    </flow>
+    <flow imageURL="images/reachcustomer.jpg">2. Driver Reaches Customer Location
+    </flow>
+    <flow imageURL="images/loadingunloading.jpg">3. Loading and Security PassKey Generation
+    </flow>
+    <flow imageURL="images/transport.jpg">4. Secure Shifting Started
+    </flow>
+    <flow imageURL="images/securekeyverification.jpg">5. PassKey Verification Before Unloading
+    </flow>
+    <flow imageURL="images/leavingcustomer.jpg">6. Shifting Completed
+    </flow>
+    
+    <vehicle value="tataace" basefare="99" fareperkm="25" waitingfare="1" freewaitinghours="1" nightholdingfare="499">Tata Ace</vehicle>
+    
+    <vehicle value="mahindrapickup" basefare="99" fareperkm="30" waitingfare="1" freewaitinghours="1" nightholdingfare="499">Mahindra Pickup</vehicle>
+
+    <vehicle value="tatatruck14feet" basefare="199" fareperkm="35" waitingfare="2" freewaitinghours="1" nightholdingfare="699">Tata Truck 14 feet</vehicle>
+    
+    <vehicle value="tatatruck17feet" basefare="299" fareperkm="39" waitingfare="2" freewaitinghours="1.5" nightholdingfare="699">Tata Truck 17 feet</vehicle>
+ 
+    <vehicle value="tatatruck19feet" basefare="399" fareperkm="39" waitingfare="3" freewaitinghours="2" nightholdingfare="799">Tata Truck 19 feet</vehicle>
+
+
+    <whycitycartzleft>The hassles of packing, finding the suitable transportation, safe carriers and unpacking while moving houses, offices or simply goods can be quite tedious and take up a lot of your time.
+    </whycitycartzleft>
+	<whycitycartzleft>
+    Citicartz has now made logistics simple, easy, convenient and just a click away.
+    </whycitycartzleft>
+    
+    <whycitycartzright> With professionals focused on every aspect right from packing to unloading we have a hands-on approach. Our door-to-door service is responsible for every aspect of your relocation. 
+		Safe, fast and fuss-free, Citicartz also promises to make relocation economical.
+    </whycitycartzright>
+    
+    <whycitycartzright> We bring a complete relocation package that starts with packing at your current location to unloading at your future location all at an affordable price.
+    </whycitycartzright>
+    
+    <review user="Saajan Master" date="15-Jul-2015">Great Service.</review>
+    <review user="Rahul" date="15-Jul-2015">Good. Very Economical.</review>
+    <review user="Abhijith Binnal" date="15-Jul-2015">Nice Support and Service. Good work.</review>
+    <review user="Pradeep Raval" date="15-Jul-2015"> Economical Service. Quick response, It made shiting so easy.</review>
+    <review user="Ankit Jain" date="15-Jul-2015">Daily transport service is great. less price.</review>
+
+    <aboutcompanyleft>The hassles of packing, finding the suitable transportation, safe carriers and unpacking while moving houses, offices or simply goods can be quite tedious and take up a lot of your time. 
+Citicartz has now made logistics simple, easy, convenient and just a click away. With professionals focused on every aspect right from packing to unloading we have a hands-on approach. Our door-to-door service is responsible for every aspect of your relocation. 
+Safe, fast and fuss-free, Citicartz also promises to make relocation economical. 
+ </aboutcompanyleft>
+  
+<aboutcompanybottom1>We bring a complete relocation package that starts with packing at your current location to unloading at your future location all at an affordable price. We take pride in tagging ourselves as the most economical logistics services since our prices are unbeatable in the market. At Citicartz, we understand the safety hazards in relocating premises or moving houses. And that is why we have invested in strict measures like secure handlers, insurance for valuables and smuggle seals to ensure your goods are delivered safely. 
+</aboutcompanybottom1>
+
+<aboutcompanybottom2>Our intra city services also facilitate moving goods from transport hubs like airports, railway stations and bus stands to your selected location in the city. 
+Our comprehensive service ensures minimal downtime.
+For homeowners, we have dedicated services that pack, move and unload everything from small, miscellaneous items to antiques, expensive furniture and items that need utmost care. Stores and other corporates can also opt for the daily logistics services. We highly recommend shared services to deliver goods in the same area thus becoming economically feasible. One can also rent a carrier for a few days or weeks thus saving on the holding costs for heavy vehicles. Other customised services can be developed to suit individual needs. And our friendly customer service centre will be happy to take care of your special preferences.
+ </aboutcompanybottom2>
+
+<aboutcompanybottom3>Sounds good? Simply fill in your relocation details via the website or give us a call and we will immediately send you the vehicle and driver details. 
+If you need packing services, our proficient team will make sure your goods are packed and ready in time for loading. In order to ensure complete safety and reliability, a security key will be sent to your registered mobile number that has to be presented during unloading. This will make sure the goods reach you safely and avoid any negative occurrences. In our bid to make the shifting process transparent, we will also send you timely updates throughout the moving process so that you can track your valuables.</aboutcompanybottom3>
+
+<aboutcompanybottom4>At Citicartz we strive to reduce your time, cost and energy involved in relocation.</aboutcompanybottom4>
+
+ </dynamicData>
